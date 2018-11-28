@@ -1,4 +1,4 @@
-## Ablauf SUSE CAASP Cluster Setup
+## Some details about SUSE CAASP Cluster Setup
 
 ### Overview
 
